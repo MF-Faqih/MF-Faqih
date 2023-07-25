@@ -6,7 +6,7 @@ Thank you very much for visiting my GitHub profile, it is a pleasure to share an
 
 What currently I'm doing right now:
 
-- 🔭 I’m not working yet, and hope will get hired soon!
+- 🔭 I’m looking forward to improving my skill as a Data Scientist.
 - 🌱 I’m currently learning furthermore about Python and R related to the data field.
 - 🥅 My goal in 2023 is to create more and more projects to improve my skills.
 - 💖 My hobbies are reading books, traveling, and learning something new.
@@ -15,7 +15,7 @@ What currently I'm doing right now:
 
 ## 📑 My Latest Project
 
-- [HomeScape, application to help someone find apartment in Jakarta](https://mffaqih.shinyapps.io/homescape/)
+- [HomeScape, application to help someone find an apartment in Jakarta](https://mffaqih.shinyapps.io/homescape/)
 - [Generalized Linear Model to Predict the Survival Probability of Titanic Passenger](https://rpubs.com/MF-Faqih/GLM_Titanic)
 - [Linear Regression Model to predict house price](https://rpubs.com/MF-Faqih/LM-HousePrice)
 

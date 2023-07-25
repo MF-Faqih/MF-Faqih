@@ -1,17 +1,15 @@
-![](https://github.com/MF-Faqih/MF-Faqih/blob/main/headergif.gif)
+r![](https://github.com/MF-Faqih/MF-Faqih/blob/main/headergif.gif)
 
 ## Hello Everyone!
+Thank you very much for visiting my GitHub profile, it is a pleasure to share anything with you about my interest in data analysis and the data science world. Maybe there's nothing much you can find here because I'm quite new in this field, but I will always learn many things and will never let myself stay in my comfort zone for too long. I hope this little meeting with you will bring many good things for me and for you 😄.
 
-**MF-Faqih/MF-Faqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What currently I'm doing right now:
 
-Here are some ideas to get you started:
+- 🔭 I’m not working yet, and hope will get hired soon!
+- 🌱 I’m currently learning furthermore about Python and R related to the data field.
+- 🥅 My goal in 2023 is to create more and more projects to improve my skills.
+- 💖 My hobbies are reading books, traveling, and learning something new.
+- 💬 You can ask me about anything you want.
+- ⚡ Fun fact about me: My educational background is in Mechanical Engineering, but finally I found myself falling in love with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

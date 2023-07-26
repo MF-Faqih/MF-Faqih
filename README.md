@@ -15,9 +15,9 @@ What currently I'm doing right now:
 
 ## 📑 My Latest Project
 
+- [Machine learning to predict whether a customer will buy a deposit or not](https://rpubs.com/MF-Faqih/bank-term-of-deposit)
 - [HomeScape, application to help someone find an apartment in Jakarta](https://mffaqih.shinyapps.io/homescape/)
 - [Generalized Linear Model to Predict the Survival Probability of Titanic Passenger](https://rpubs.com/MF-Faqih/GLM_Titanic)
-- [Linear Regression Model to predict house price](https://rpubs.com/MF-Faqih/LM-HousePrice)
 
 ## 📑 My Another Project on Rpubs
 
